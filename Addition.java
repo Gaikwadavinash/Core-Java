@@ -7,6 +7,8 @@ int c;
 c=a+b;
 System.out.println("Addition c:"+c);
 }
+	class Add{
+		
 	public static void main(String[] args) 
 	{
 Addition ob=new Addition();
